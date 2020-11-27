@@ -1,0 +1,9 @@
+superoxide_dismutase_1 
+superoxide_dismutase_2
+oxidoreductase
+Ero_1
+peroxiredoxin_4
+glutathione_peroxidases_GPx7
+glutathione_peroxidases_GPx8
+oxidized_glutathione
+#END#

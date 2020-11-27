@@ -1,0 +1,15 @@
+acyl-coa_oxidase
+palimtoyl-coa_oxidase 
+pristanoyl-coa_oxidase
+trihydroxycoprostanoyl-coa_oxidase 
+urate_oxidase
+xanthine_oxidase
+D-amino_acid_oxidase 
+sarosine_oxidase
+pipecolic_acid_oxidase
+D-aspartate_oxidase
+alpha_hydeoxy_acid_oxidase
+poly_amine_oxidase
+nitric_oxidase_synthase
+plant_sulfite_oxidase
+#END#

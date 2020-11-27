@@ -1,0 +1,13 @@
+catalase
+glutathione_peroxidase
+Mn_SOD 
+Cu_Zn_SOD
+epoxide_hydrolse
+oxidoreductase
+peroxiredioxin_1
+PMP_20
+glutathione_peroxidases_GPx7
+glutathione_peroxidases_GPx8
+oxidized_glutathione
+plant_ascorbate_glutathione_cycle
+#END#

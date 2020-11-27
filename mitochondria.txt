@@ -1,0 +1,6 @@
+apoplastic_ascorbate_oxidase
+NADH_dehydrogenase
+alternative_oxidase 
+NADH_oxidase
+apoplastic_ascorbate
+#END#
